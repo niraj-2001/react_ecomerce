@@ -1,0 +1,22 @@
+@keyframes marquee {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  animation: marquee 30s linear infinite;
+  white-space: nowrap;
+}
+
+.animate-marquee.paused {
+  animation-play-state: paused; /* Click se ruk jayega */
+}
+
+.animate-marquee span {
+  margin-right: 40px; /* Text ke beech me gap */
+}

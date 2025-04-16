@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Speaker",
+    "about": "F FERONS Wireless rechargeable portable Premium bass Multimedia FFRTG-113 9 W Bluetooth Speaker.",
+    "img": ["/images/speaker1.png", "/images/speaker3.png"],
+    "price": "₹499",
+    "category": "speaker",
+    "specs": {
+      "Battery Backup": "6 hours",
+      "Sound Output": "9W",
+      "Bluetooth Version": "5.0",
+      "Charging Time": "2 hours",
+      "Connectivity": "Wireless, AUX"
+    }
+  },
+  {
+    "id": 2,
+    "name": "MotoRola Smartphone",
+    "about": "MotoRola smartphone with smooth performance, decent camera, and long-lasting battery.",
+    "img": ["/images/moto.jpeg", "/images/moto1.png", "/images/moto2.png", "/images/moto4.png", "/images/moto5.png"],
+    "price": "₹599",
+    "category": "mobile",
+    "specs": {
+      "RAM": "4GB",
+      "Storage": "64GB",
+      "Battery": "4000mAh",
+      "Processor": "Snapdragon 662",
+      "Camera": "13MP Rear, 5MP Front",
+      "Display": "6.5-inch HD+"
+    }
+  },
+  
+  {
+    "id": 3,
+    "name": "Portable Mini Fan",
+    "about": "Rechargeable mini fan for travel and personal use with strong airflow.",
+    "img": ["./images/3.jpeg", "./images/3_2.jpeg"],
+    "price": "₹699",
+    "specs": {
+      "Battery Backup": "4 hours",
+      "Speed Settings": "3 levels",
+      "Charging Type": "USB",
+      "Material": "Plastic",
+      "Noise Level": "Low"
+    }
+  },
+  {
+    "id": 5,
+    "name": "HP 15s Laptop",
+    "about": "HP 15s, 12th Gen Intel Core i5 laptop with 15.6 inch FHD display, perfect for work and entertainment.",
+    "img": ["/images/hp.jpg",
+      "/images/hp1.jpg" ,
+     " /images/hp2.jpg",
+     " /images/hp3.jpg",
+       " /images/hp4.jpg" ],
+    "price": "₹52,999",
+    "category": "laptop",
+    "specs": {
+      "Processor": "Intel Core i5 12th Gen",
+      "RAM": "8GB DDR4",
+      "Storage": "512GB SSD",
+      "Display": "15.6 inch Full HD (1920 x 1080)",
+      "Graphics": "Intel Iris Xe",
+      "Battery": "3-cell, 41Wh Li-ion, up to 6 hours backup",
+      "Operating System": "Windows 11 Home",
+      "Build Quality": "Plastic body with metallic finish",
+      "Weight": "1.69 kg",
+      "Performance": "Good for multitasking, coding, office, and light gaming",
+      "Warranty": "1 Year Onsite Warranty"
+    }
+  
+  
+  },
+  {
+    "id": 6,
+    "name": "Dell Inspiron 15",
+    "about": "Dell Inspiron 15, 13th Gen Intel Core i5 laptop with 15.6 inch FHD display, ideal for students and professionals.",
+    "img": [
+      "/images/dell.jpg",
+      "/images/dell1.jpg",
+      "/images/dell2.jpg",
+      "/images/dell3.jpg",
+     "/images/dell4.jpg"],
+    "price": "₹58,990",
+    "category": "laptop",
+    "specs": {
+      "Processor": "Intel Core i5 13th Gen (i5-1335U)",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB SSD",
+      "Display": "15.6 inch Full HD (1920 x 1080)",
+      "Graphics": "Intel Iris Xe Graphics",
+      "Battery": "4-cell, 54Wh, up to 7 hours backup",
+      "Operating System": "Windows 11 Home",
+      "Build Quality": "Aluminium top cover with sturdy build",
+      "Weight": "1.85 kg",
+      "Performance": "Smooth multitasking, programming, video editing",
+      "Keyboard": "Backlit Keyboard with Numeric Keypad",
+      "Ports": "2 x USB 3.2, 1 x USB-C, 1 x HDMI, Audio jack",
+      "Warranty": "1 Year Onsite Warranty from Dell"
+    }
+  
+  
+  },
+  {
+    "id": 6,
+    "name": "Gaming Keyboard",
+    "about": "Backlit gaming keyboard with anti-ghosting and tactile keys.",
+    "img": ["./images/1.jpeg", "./images/1_4.jpeg"],
+    "price": "₹999",
+    "specs": {
+      "Key Type": "Mechanical",
+      "Backlight": "RGB",
+      "Connectivity": "Wired",
+      "Material": "ABS Plastic",
+      "Compatibility": "Windows/Linux"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Smartwatch X7",
+    "about": "Stylish smartwatch with fitness tracking, notifications and heart rate monitor.",
+    "img": ["images/product7.jpg"],
+    "price": "₹1099",
+    "specs": {
+      "Display": "1.4-inch IPS",
+      "Battery Life": "7 Days",
+      "Health Tracking": "Heart Rate, Steps, Sleep",
+      "Water Resistance": "IP67",
+      "Compatibility": "Android/iOS"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Wireless Earbuds",
+    "about": "TWS earbuds with deep bass, touch controls and long battery life.",
+    "img": ["images/product8.jpg"],
+    "price": "₹1199",
+    "specs": {
+      "Playback Time": "20 hours",
+      "Bluetooth Version": "5.1",
+      "Charging Case": "Yes",
+      "Controls": "Touch",
+      "Water Resistance": "IPX4"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Laptop Cooling Pad",
+    "about": "Cooling pad with 5 fans and adjustable angles for better ventilation.",
+    "img": ["images/product9.jpg"],
+    "price": "₹1299",
+    "specs": {
+      "Fans": "5",
+      "Speed": "2000 RPM",
+      "USB Ports": "2",
+      "Material": "Metal + ABS",
+      "Adjustable Height": "Yes"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Fitness Band",
+    "about": "Track your steps, sleep and heart rate with this fitness band.",
+    "img": ["images/product10.jpg"],
+    "price": "₹1399",
+    "specs": {
+      "Display": "0.96-inch OLED",
+      "Battery Life": "10 Days",
+      "Tracking": "Steps, Sleep, Heart Rate",
+      "Waterproof": "IP68",
+      "Bluetooth": "4.0"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bluetooth Neckband",
+    "about": "Comfortable neckband earphones with HD sound and deep bass.",
+    "img": ["images/product11.jpg"],
+    "price": "₹1499",
+    "specs": {
+      "Battery Backup": "15 Hours",
+      "Bluetooth Version": "5.0",
+      "Charging Time": "1.5 Hours",
+      "Mic": "Yes",
+      "Range": "10m"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Portable Power Bank",
+    "about": "10000mAh power bank with fast charging and dual USB output.",
+    "img": ["images/product12.jpg"],
+    "price": "₹1599",
+    "specs": {
+      "Capacity": "10000mAh",
+      "Output Ports": "2 USB",
+      "Fast Charging": "Yes",
+      "Input Type": "Micro USB, Type-C",
+      "Weight": "240g"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ring Light with Tripod",
+    "about": "10-inch ring light for makeup, content creation and video calls.",
+    "img": ["images/product13.jpg"],
+    "price": "₹1699",
+    "specs": {
+      "Light Size": "10-inch",
+      "Modes": "Warm, Cool, Natural",
+      "Tripod Height": "Up to 50 inch",
+      "Power Source": "USB",
+      "Brightness Levels": "10"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Rechargeable Emergency Light",
+    "about": "Bright emergency light with dual tube and long battery backup.",
+    "img": ["images/product14.jpg"],
+    "price": "₹1799",
+    "specs": {
+      "Backup Time": "8 hours",
+      "Charging Time": "6 hours",
+      "LED Tubes": "2",
+      "Handle": "Yes",
+      "Power Mode": "AC/DC"
+    }
+  },
+  {
+    "id": 15,
+    "name": "VR Box Headset",
+    "about": "VR headset for mobile with adjustable lenses and immersive view.",
+    "img": ["images/product15.jpg"],
+    "price": "₹1899",
+    "specs": {
+      "Lens Type": "Adjustable",
+      "Compatible Phones": "4.7 - 6.0 inch",
+      "Material": "Plastic + Foam",
+      "Strap": "Adjustable Head Strap",
+      "Immersion": "360° View"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Electric Beard Trimmer",
+    "about": "Rechargeable trimmer for men with stainless steel blades.",
+    "img": ["images/product16.jpg"],
+    "price": "₹1999",
+    "specs": {
+      "Blade Type": "Stainless Steel",
+      "Battery Backup": "60 mins",
+      "Charging Time": "2 hours",
+      "Adjustable Settings": "Yes",
+      "Cordless Use": "Yes"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Redmi Note 13 5G",
+    "about": "Power-packed smartphone with AMOLED display and 5G connectivity.",
+    "img": [
+      "/images/redimi.jpeg",
+      "/images/redmi1.jpeg",
+      "/images/redmi2.jpeg"
+    ],
+    "price": "₹17,999",
+    "specs": {
+      "Display": "6.67-inch FHD+ AMOLED, 120Hz refresh rate",
+      "Processor": "MediaTek Dimensity 6100+",
+      "RAM": "6GB / 8GB",
+      "Storage": "128GB / 256GB (Expandable up to 1TB)",
+      "Battery": "5000mAh with 33W Fast Charging",
+      "Rear Camera": "50MP + 2MP Dual Camera",
+      "Front Camera": "8MP Selfie Camera",
+      "OS": "MIUI 14 based on Android 13",
+      "Network": "5G / 4G / 3G / 2G",
+      "Fingerprint Sensor": "Side-mounted",
+      "Build": "IP54 Splash Resistant",
+      "OTG Support": "Yes",
+      "Headphone Jack": "Yes, 3.5mm"
+    }
+  
+  
+  
+  
+  },
+  {
+    "id": 18,
+    "name": "WiFi Range Extender",
+    "about": "Boost your WiFi signal with this easy-to-setup range extender.",
+    "img": ["images/product18.jpg"],
+    "price": "₹2199",
+    "specs": {
+      "Speed": "300 Mbps",
+      "Bands": "2.4 GHz",
+      "Coverage": "Up to 1200 sq ft",
+      "Ports": "1 LAN Port",
+      "Setup": "WPS Button"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Smart Plug (16A)",
+    "about": "Control heavy appliances remotely with voice assistant support.",
+    "img": ["images/product19.jpg"],
+    "price": "₹2299",
+    "specs": {
+      "Current Rating": "16A",
+      "WiFi Support": "2.4 GHz",
+      "App Control": "Yes",
+      "Voice Assistant": "Alexa, Google Assistant",
+      "Usage": "Geyser, AC, Motor"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Mini Projector",
+    "about": "HD mini projector for movies and presentations at home.",
+    "img": ["images/product20.jpg"],
+    "price": "₹2399",
+    "specs": {
+      "Resolution": "720p",
+      "Projection Size": "30 to 120 inch",
+      "Ports": "HDMI, USB, AV",
+      "Lamp Life": "30000 hours",
+      "Built-in Speaker": "Yes"
+    }
+  }
+]
